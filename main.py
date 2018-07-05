@@ -6,7 +6,7 @@ import module3
 
 
 def main():
-    loggers = Logger('fi')
+    loggers = Logger('fillllll')
 
     # Application code here
     module1.run()
