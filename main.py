@@ -7,13 +7,17 @@ import module3
 
 def main():
     # Initialize Loggers in module
-    ##
+    #
+    #
+    #
     loggers = Logger('file.log')
 
     # Application code here
     module1.run()
     module2.run()
     module3.run()
+
+    print("test")
 
     # Logging summary
     print("Logging summary:")
