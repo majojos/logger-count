@@ -7,7 +7,7 @@ import module3
 
 def main():
     loggers = Logger('file.log')
-
+    print("hello")
     # Application code here
     module1.run()
     module2.run()
